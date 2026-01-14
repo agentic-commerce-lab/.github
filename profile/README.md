@@ -4,7 +4,7 @@
 
 AI agents are fundamentally reshaping how commerce works. This project provides the unified protocol ecosystem that empowers every developer to participate in this transformation.
 
-**Live Website:** [agentic-commerce.dev](https://agentic-commerce.dev)
+**Live Website:** [www.agentic-commerce.dev](https://www.agentic-commerce.dev)
 
 ---
 
@@ -45,10 +45,10 @@ The Agentic Commerce Lab is Shopware's dedicated initiative to shape the future 
 
 Visit the live website to explore:
 
-1. **[Protocols](https://agentic-commerce.dev/protocols)** - Deep dive into each protocol's capabilities
-2. **[Alliance](https://agentic-commerce.dev/alliance)** - Join the Agentic Commerce Alliance
-3. **[Strategy](https://agentic-commerce.dev/strategy)** - Read our whitepapers and strategic insights
-4. **[Playground](https://agentic-commerce.dev/playground)** - Try the Shopware 6 integration
+1. **[Protocols](https://www.agentic-commerce.dev/protocols)** - Deep dive into each protocol's capabilities
+2. **[Alliance](https://www.agentic-commerce.dev/alliance)** - Join the Agentic Commerce Alliance
+3. **[Strategy](https://www.agentic-commerce.dev/strategy)** - Read our whitepapers and strategic insights
+4. **[Playground](https://www.agentic-commerce.dev/playground)** - Try the Shopware 6 integration
 
 ## Related Resources
 
