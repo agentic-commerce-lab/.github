@@ -4,7 +4,7 @@
 
 AI agents are fundamentally reshaping how commerce works. This project provides the unified protocol ecosystem that empowers every developer to participate in this transformation.
 
-**Live Website:** [agentic-commerce.dev](https://www.agentic-commerce.dev)
+**Live Website:** [www.agentic-commerce.dev](https://www.agentic-commerce.dev)
 
 ---
 
