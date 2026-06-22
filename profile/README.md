@@ -16,7 +16,7 @@ We build in the open and use GitHub as the home for our public experiments, refe
 
 Initial initiatives:
 
-- [ARD resource discovery plugin](https://github.com/agentic-commerce-lab/agentic-resource-discovery-plugin)
+- [ARD agentic resource discovery plugin](https://github.com/agentic-commerce-lab/agentic-resource-discovery-plugin)
 - [AXP protocol](https://github.com/agentic-commerce-lab/AXP-protocol)
 - [SwagUcp](https://github.com/agentic-commerce-lab/SwagUcp)
 - [SwagA2UI](https://github.com/agentic-commerce-lab/SwagA2UI)
