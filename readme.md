@@ -1,79 +1,59 @@
-# Agentic Commerce for Developers
+# The Agentic Commerce Lab
 
-> The open development ecosystem for AI-driven commerce
+> Shopware's frontier discovery and incubation team for the agentic shift in commerce.
 
-AI agents are fundamentally reshaping how commerce works. This project provides the unified protocol ecosystem that empowers every developer to participate in this transformation.
+We are living through the fastest technological shift in human history, and commerce is one of the first industries being rebuilt. AI agents are already discovering, evaluating, and buying on behalf of humans. The rules of discovery, trust, and transaction are being rewritten in real time.
 
-**Live Website:** [agentic-commerce.dev](https://www.agentic-commerce.dev)
+The **Agentic Commerce Lab at Shopware** exists to help shape those rules in the open. We work ahead of the roadmap, exploring what commerce will need as AI agents begin buying, selling, and operating on behalf of people and businesses.
+
+**Live website:** [www.agentic-commerce.dev](https://www.agentic-commerce.dev)
 
 ---
 
-## About
+## Repositories
 
-**Agentic Commerce for Developers** is a documentation and resource hub for the emerging agentic commerce ecosystem. We bring together the key protocols that enable AI agents to discover products, complete purchases, and manage orders across the entire commerce lifecycle.
+We build in the open and use GitHub as the home for our public experiments, reference implementations, protocol work, and developer-facing assets. Expect this organization to grow as the Lab ships more open-source artifacts for agentic commerce.
 
-This initiative is led by the **Agentic Commerce Lab at Shopware**, dedicated to building open standards and tools that ensure a diverse, competitive future for AI-driven commerce.
+Initial initiatives:
+
+- [ARD resource discovery plugin](https://github.com/agentic-commerce-lab/agentic-resource-discovery-plugin)
+- [AXP protocol](https://github.com/agentic-commerce-lab/AXP-protocol)
+- [SwagUcp](https://github.com/agentic-commerce-lab/SwagUcp)
+- [SwagA2UI](https://github.com/agentic-commerce-lab/SwagA2UI)
+- [swag-mcp-app](https://github.com/agentic-commerce-lab/swag-mcp-app)
 
 ## The Protocol Ecosystem
 
-We cover four interconnected protocols powering the future of agentic commerce:
+We work across the emerging protocol ecosystem that will shape how agents discover resources, communicate, evaluate offers, authorize payments, and transact.
 
-| Protocol | Description | Developers |
-|----------|-------------|------------|
-| **AXP** | Agentic Experience Protocol - Unified commerce experiences across all touchpoints | Agentic Commerce Alliance, Shopware |
-| **A2A** | Agent2Agent Protocol - Open protocol for AI agent-to-agent communication | Google, Linux Foundation, Adobe, SAP |
-| **ACP** | Agentic Commerce Protocol - Standard for AI agent-powered transactions | OpenAI, Stripe |
-| **UCP** | Universal Commerce Protocol - Common language for platforms, agents, and businesses | Google, Shopify, Walmart, Target |
-
-## Key Features
-
-- **Protocol Documentation** - Comprehensive guides for UCP, A2A, ACP, and our custom AXP protocol
-- **Alliance Information** - Learn about the Agentic Commerce Alliance and how to join
-- **Strategy Resources** - Whitepapers and insights on the future of agentic commerce
-- **Playground** - Interactive demos including Shopware 6 UCP integration
-
-## Agentic Commerce Lab at Shopware
-
-The Agentic Commerce Lab is Shopware's dedicated initiative to shape the future of AI-driven commerce. Our mission:
-
-- **Open Standards** - Developing and contributing to interoperable protocols that prevent vendor lock-in
-- **Merchant Empowerment** - Ensuring businesses retain control of customer relationships in the AI agent economy
-- **Developer Tools** - Building SDKs, reference implementations, and integration guides
-- **Community Building** - Fostering collaboration between commerce platforms, AI providers, and developers
-
-## Getting Started
-
-Visit the live website to explore:
-
-1. **[Protocols](https://www.agentic-commerce.dev/protocols)** - Deep dive into each protocol's capabilities
-2. **[Alliance](https://www.agentic-commerce.dev/alliance)** - Join the Agentic Commerce Alliance
-3. **[Strategy](https://www.agentic-commerce.dev/strategy)** - Read our whitepapers and strategic insights
-4. **[Playground](https://www.agentic-commerce.dev/playground)** - Try the Shopware 6 integration
+| Protocol / rail | Description | Developers / stewards |
+|-----------------|-------------|------------------------|
+| **ARD** | Agentic Resource Discovery - Making merchant capabilities, data, and actions discoverable to AI agents | Agentic Commerce Lab, Shopware |
+| **AXP** | Agentic Experience Protocol - Rich product detail, quality signals, and embedded experiences for agentic commerce | Agentic Commerce Lab, Shopware |
+| **UCP** | Universal Commerce Protocol - Transport-agnostic merchant checkout, order, and capability discovery | Google, Shopify, commerce partners |
+| **ACP** | Agentic Commerce Protocol - Checkout-session protocol behind ChatGPT Instant Checkout | OpenAI, Stripe |
+| **AP2** | Agent Payments Protocol - Mandates and consent proofs for agent-authorized payments | Google, FIDO Alliance |
+| **A2A** | Agent2Agent Protocol - Agent-to-agent communication and task lifecycle | Linux Foundation, Google |
+| **MCP** | Model Context Protocol - Tool and data access layer for agents | Anthropic, Agentic AI Foundation |
+| **WebMCP** | Web Model Context Protocol - In-page browser surface for agent tools and context | W3C Web Machine Learning CG, Google, Microsoft |
+| **MPP** | Machine Payments Protocol - Session-based machine payment primitive | Stripe, Tempo |
+| **x402** | HTTP 402-based machine payment pattern, including stablecoin settlement paths | Coinbase and ecosystem contributors |
 
 ## Related Resources
 
-- [AXP Protocol Repository](https://github.com/agentic-commerce-lab/AXP-protocol)
-- [Universal Commerce Protocol (UCP)](https://ucp.dev)
-- [Agent2Agent Protocol (A2A)](https://a2a-protocol.org)
-- [Agentic Commerce Protocol (ACP)](https://www.agenticcommerce.dev)
+- [Agentic Commerce for Developers](https://www.agentic-commerce.dev)
 - [Agentic Commerce Alliance](https://agentic-commerce.org)
+- [Universal Commerce Protocol](https://ucp.dev)
+- [Agent2Agent Protocol](https://a2a-protocol.org)
+- [Agentic Commerce Protocol](https://www.agenticcommerce.dev)
 - [Stefan Hamann's Agentic Commerce Blog](https://agentic-commerce.sh)
-
-## Tech Stack
-
-- React + TypeScript
-- Tailwind CSS
-- Vite
-- Express.js
 
 ## Contributing
 
-We welcome contributions from the community. Whether you're interested in improving documentation, adding new protocol implementations, or building integrations—join us in shaping the future of agentic commerce.
+We welcome contributions from developers, merchants, partners, and researchers interested in keeping agentic commerce open, interoperable, and merchant-preserving.
 
-## License
-
-MIT
+Whether you are improving documentation, experimenting with protocol implementations, building integrations, or challenging assumptions, you are helping shape how commerce works in the agentic era.
 
 ---
 
-Built with care by the **Agentic Commerce Lab at Shopware**
+Built by the **Agentic Commerce Lab at Shopware**.
