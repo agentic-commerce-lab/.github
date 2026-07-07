@@ -6,19 +6,18 @@ We are living through the fastest technological shift in human history, and comm
 
 The **Agentic Commerce Lab at Shopware** exists to help shape those rules in the open. We work ahead of the roadmap, exploring what commerce will need as AI agents begin buying, selling, and operating on behalf of people and businesses.
 
-**Live website:** [www.agentic-commerce.dev](https://www.agentic-commerce.dev)
-
 ---
 
 ## Repositories
 
 We build in the open and use GitHub as the home for our public experiments, reference implementations, protocol work, and developer-facing assets. Expect this organization to grow as the Lab ships more open-source artifacts for agentic commerce.
 
-Initial initiatives:
+Some of our current initiatives:
 
 - [ARD resource discovery plugin](https://github.com/agentic-commerce-lab/agentic-resource-discovery-plugin)
 - [AXP protocol](https://github.com/agentic-commerce-lab/AXP-protocol)
-- [SwagUcp](https://github.com/agentic-commerce-lab/SwagUcp)
+- [WebMCP plugin](https://github.com/agentic-commerce-lab/webmcp-plugin)
+- [Alibaba's PageAgent Shopware plugin](https://github.com/agentic-commerce-lab/PageAgentShopwareBridge)
 - [SwagA2UI](https://github.com/agentic-commerce-lab/SwagA2UI)
 - [swag-mcp-app](https://github.com/agentic-commerce-lab/swag-mcp-app)
 
