@@ -20,6 +20,7 @@ Some of our current initiatives:
 - [Alibaba's PageAgent Shopware plugin](https://github.com/agentic-commerce-lab/PageAgentShopwareBridge)
 - [SwagA2UI](https://github.com/agentic-commerce-lab/SwagA2UI)
 - [swag-mcp-app](https://github.com/agentic-commerce-lab/swag-mcp-app)
+- [Sales Agent Harness](https://github.com/agentic-commerce-lab/sales-agent-harness)
 
 ## The Protocol Ecosystem
 
