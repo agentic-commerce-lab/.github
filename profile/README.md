@@ -17,10 +17,11 @@ Some of our current initiatives:
 - [ARD resource discovery plugin](https://github.com/agentic-commerce-lab/agentic-resource-discovery-plugin)
 - [AXP protocol](https://github.com/agentic-commerce-lab/AXP-protocol)
 - [WebMCP plugin](https://github.com/agentic-commerce-lab/webmcp-plugin)
-- [Alibaba's PageAgent Shopware plugin](https://github.com/agentic-commerce-lab/PageAgentShopwareBridge)
+- [PageAgent Shopware plugin](https://github.com/agentic-commerce-lab/PageAgentShopwareBridge)
 - [SwagA2UI](https://github.com/agentic-commerce-lab/SwagA2UI)
 - [swag-mcp-app](https://github.com/agentic-commerce-lab/swag-mcp-app)
 - [Sales Agent Harness](https://github.com/agentic-commerce-lab/sales-agent-harness)
+- [x402 Plugin](https://github.com/agentic-commerce-lab/x402-payment-plugin)
 
 ## The Protocol Ecosystem
 
