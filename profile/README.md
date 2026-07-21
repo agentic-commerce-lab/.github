@@ -14,6 +14,7 @@ We build in the open and use GitHub as the home for our public experiments, refe
 
 Some of our current initiatives:
 
+- [WebMCP plugin](https://github.com/agentic-commerce-lab/webmcp-plugin)
 - [ARD resource discovery plugin](https://github.com/agentic-commerce-lab/agentic-resource-discovery-plugin)
 - [AXP protocol](https://github.com/agentic-commerce-lab/AXP-protocol)
 - [WebMCP plugin](https://github.com/agentic-commerce-lab/webmcp-plugin)
@@ -29,7 +30,6 @@ We work across the emerging protocol ecosystem that will shape how agents discov
 
 | Protocol / rail | Description | Developers / stewards |
 |-----------------|-------------|------------------------|
-| **ARD** | Agentic Resource Discovery - Making merchant capabilities, data, and actions discoverable to AI agents | Agentic Commerce Lab, Shopware |
 | **AXP** | Agentic Experience Protocol - Rich product detail, quality signals, and embedded experiences for agentic commerce | Agentic Commerce Lab, Shopware |
 | **UCP** | Universal Commerce Protocol - Transport-agnostic merchant checkout, order, and capability discovery | Google, Shopify, commerce partners |
 | **ACP** | Agentic Commerce Protocol - Checkout-session protocol behind ChatGPT Instant Checkout | OpenAI, Stripe |
@@ -37,6 +37,7 @@ We work across the emerging protocol ecosystem that will shape how agents discov
 | **A2A** | Agent2Agent Protocol - Agent-to-agent communication and task lifecycle | Linux Foundation, Google |
 | **MCP** | Model Context Protocol - Tool and data access layer for agents | Anthropic, Agentic AI Foundation |
 | **WebMCP** | Web Model Context Protocol - In-page browser surface for agent tools and context | W3C Web Machine Learning CG, Google, Microsoft |
+| **ARD** | Agentic Resource Discovery - Making merchant capabilities, data, and actions discoverable to AI agents | Agentic Commerce Lab, Shopware |
 | **MPP** | Machine Payments Protocol - Session-based machine payment primitive | Stripe, Tempo |
 | **x402** | HTTP 402-based machine payment pattern, including stablecoin settlement paths | Coinbase and ecosystem contributors |
 
