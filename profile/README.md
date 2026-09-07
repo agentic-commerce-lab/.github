@@ -22,6 +22,7 @@ Some of our current initiatives:
 - [swag-mcp-app](https://github.com/agentic-commerce-lab/swag-mcp-app)
 - [Sales Agent Harness](https://github.com/agentic-commerce-lab/sales-agent-harness)
 - [x402 Plugin](https://github.com/agentic-commerce-lab/x402-payment-plugin)
+- [Shopping Assistant Starter Kit](https://github.com/agentic-commerce-lab/shopping-assistant-starter-kit)
 
 ## The Protocol Ecosystem
 
